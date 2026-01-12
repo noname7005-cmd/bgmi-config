@@ -4,7 +4,7 @@
 
   "users": {
     "ABC123": {
-      "expiry": "2026-01-01",
+      "expiry": "2024-01-01",
       "status": "ACTIVE"
     }
   }
