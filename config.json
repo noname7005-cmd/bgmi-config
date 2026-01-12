@@ -1,0 +1,11 @@
+{
+  "appVersion": "1.0",
+  "globalStatus": "ACTIVE",
+
+  "users": {
+    "ABC123": {
+      "expiry": "2026-02-01",
+      "status": "ACTIVE"
+    }
+  }
+}
